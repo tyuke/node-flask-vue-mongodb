@@ -29,7 +29,7 @@ https://flask-pymongo.readthedocs.io/en/latest/
 pip install flask-pymongo
 mongodb要自己下载安装好
 
-/******* 这一步留在这，可以不用
+/******* 这一步留在这，可以不用||
 MongoDB数据库绑定服务ip地址设置（PS：如果不进行下述设置，默认ip为本机127.0.0.1地址）：
 打开CMD，进入MongoDB安装的bin文件夹下，例如我的安装目录为：C:\Program Files\MongoDB\Server\3.2\bin
 然后在CMD中输入mongod.exe --bind_ip yourIPadress
@@ -37,5 +37,8 @@ MongoDB数据库绑定服务ip地址设置（PS：如果不进行下述设置，
 
 flask和vue
 
+https://www.cnblogs.com/yingqml/p/7205147.html?utm_source=debugrun&utm_medium=referral
 
+先安装node
+npm install --global vue-cli   安装vue脚手架
 
