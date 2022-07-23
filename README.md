@@ -1,4 +1,4 @@
-# kankan
+# flask mongodb vue 部署
 首先安装好python 这里的版本是python 3.6.5 在命令行输入python就可以查看python是否安装好
 
 
